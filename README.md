@@ -4,4 +4,4 @@ Data downloaded from Canvas has been formatted into a text file, `projecttopics.
 
 The program in `projectteams.py` reads the text file and computes _pairings_. A pairing consists of pairs of teams whose choices overlap. Multiple pairs can be assigned to a single data structure, but one team can only be assigned to one pair and one data structure.
 
-Contributions in the form of pill requests are welcome.
+Contributions in the form of pull requests are welcome.
