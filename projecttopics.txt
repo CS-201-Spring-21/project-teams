@@ -1,0 +1,38 @@
+192 W R AB(FM-index)
+743 W R AB
+669 W AB(FM-index) J
+495 AB AE D
+830 R J T
+404 R J AE
+585 AE D H
+572 Y R K
+587 W Z P
+601 H L X
+263 AE J AB(Merkle-Tree)
+725 P K Z
+409 AB(FM-index)  
+483 AB(FM-index)  
+476 Z W P
+500 P W 
+440 Z W P
+253 Z S W
+502 X Z AE
+402 J X AB(Merkle-Tree)
+225 J R W
+269 C J Y
+940 U Z AA
+561 X L AE
+912 J K M
+646 AD C I
+466 W AB(FM-index) F
+605 H X L
+413 Y R AB
+899 E J H
+533 Y R AB
+971 L W 
+956 X Z AE
+145 C J Y
+574 X Z AE
+794 W AB(FM-index) J
+879 P W 
+690 AD C I
