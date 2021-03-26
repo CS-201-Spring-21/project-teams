@@ -1,5 +1,3 @@
-import copy
-import graphviz
 import itertools
 import random
 from typing import Iterable
@@ -91,8 +89,7 @@ team_choices: {str: [str]} = {team: choices for team, *choices in team_choices}
 # pairing which covers the most number of teams and data structures.
 ##########
 # PRE: team_choices contains information of all teams.
-max_teams = 0
-max_structures = 0
+max_teams, max_structures = 0, 0
 max_pairs = []
 # Iterate many times.
 for _ in range(5000):
@@ -109,7 +106,7 @@ for _ in range(5000):
         max_teams, max_structures = num_teams, num_structures
         max_pairs = new_pairs
 # POST: max_pairs contains the pairings that maximize number of teams and
-# covered data structures.
+# covered data structures so far.
 
 # Output information.
 print(f'{max_teams} teams assigned to {max_structures} data structures')
